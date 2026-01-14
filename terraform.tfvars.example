@@ -1,1 +1,5 @@
+resource_group_name  = "rg-terraform-cloud-baseline"
+storage_account_name = "tfcloudbaseline123"
+environment           = "dev"
+location              = "westus2"
 
